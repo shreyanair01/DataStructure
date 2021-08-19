@@ -1,2 +1,2 @@
 # DataStructure
-Implementing simple data structures using python 2.7
+Implementing simple data structures using python 3
